@@ -1,16 +1,16 @@
 # use "yapm install ." if you're installing this from git repository
 
-name: sinopia2
-version: 2.0.2
-description: Private npm repository server
+name: sinopia-apm
+version: 1.0.0
+description: Private apm package storage
 
 author:
-  name: Alex Kocharin
-  email: alex@kocharin.ru
+  name: Tomer Steinfeld
+  email: tomer@corevo.io
 
 repository:
   type: git
-  url: git://github.com/fl4re/sinopia
+  url: git://github.com/corevo/sinopia
 
 main: index.js
 
