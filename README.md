@@ -26,7 +26,7 @@ e.g. [react](https://github.com/facebook/react) and [atom-react](https://github.
 ```bash
 # installation and starting (application will create default
 # config in config.yaml you can edit later)
-$ npm install -g sinopia2
+$ npm install -g sinopia-apm
 $ sinopia
 
 # npm configuration
